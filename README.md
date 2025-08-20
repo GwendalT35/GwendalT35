@@ -7,7 +7,7 @@ I'm a passionate developer who loves mixing **code and creativity**. Right now I
 🎮 My current focus: building my own **indie game project** from scratch.  
 ⚡ Always curious, always learning — whether it’s coding, design, or trying new tools.  
 
-When I’m not coding, you’ll probably find me tweaking some 3D models, testing game mechanics, or just breaking things to see how they work.  
+When I’m not coding, you’ll probably find me tweaking some 3D models, testing game mechanics, or just breaking things to see how they work. 🚀🚀🚀
 
 
 
