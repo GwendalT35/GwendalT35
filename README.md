@@ -68,3 +68,6 @@ When I’m not coding, you’ll probably find me tweaking some 3D models, testin
 ![](https://github-profile-trophy.vercel.app/?username=GwendalT35&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
