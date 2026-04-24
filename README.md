@@ -69,5 +69,5 @@ When I’m not coding, you’ll probably find me tweaking some 3D models, testin
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GwendalT35)
 
